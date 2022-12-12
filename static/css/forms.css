@@ -1,0 +1,37 @@
+input {
+  outline: none;
+  box-shadow: none;
+  border: 1px solid var(--color-text);
+  padding: 5px;
+  width: 100%;
+}
+
+button {
+  width: 78.4%;
+  background-color: var(--color-primary);
+  color: white;
+  border: 0;
+  border-radius: 5px;
+  padding: 5px;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.btn-wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+}
+
+
+.aux-btns-forms{
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+}
+
+.aux-btns-forms a {
+  padding-right: 10px;
+  text-decoration: none;
+}

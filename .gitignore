@@ -1,0 +1,6 @@
+agenda/.env
+agenda/__pycache__
+contact/__pycache__
+contact/migrations
+todo/__pycache__
+todo/migrations
